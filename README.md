@@ -1,9 +1,4 @@
 # GPT3 Website
-
-#### Live Project🎉
-- [**GitHub** - https://nkilm.github.io/openai-gpt3](https://nkilm.github.io/openai-gpt3/)
-- [**Vercel** - https://openai-gpt3.vercel.app](https://nkilm.github.io/openai-gpt3/)
-
 ## Usage
 
 - With Docker (Recommended)
@@ -37,5 +32,4 @@ npm start
 ## Figma Design - 
 [*Click me!!*](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15)
 ## Credits 
-
-YouTube - [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery) 
+Ravi Shirsat (IIT MANDI)
